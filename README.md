@@ -10,10 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=urvashi&theme=dark&hide_border=false)<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urvashivishwakarma&show_icons=true&theme=dark&hide_border=false&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN)
-
-
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=urvashi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
