@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/c5ba2045-81e6-42d2-b954-f328d56f878d)
-" alt="Urvashi Vishwakarma Banner" />
+  <img src="Blue Modern Corporate Staff Profile LinkedIn Banner.png" alt="Urvashi Vishwakarma Banner" />
 </p>
 <br>
 
