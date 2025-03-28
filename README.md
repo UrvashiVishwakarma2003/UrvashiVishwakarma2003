@@ -20,8 +20,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=urvashi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Inspirational Dev Quote  
-![Quote](https://img.shields.io/badge/%22First,%20solve%20the%20problem.%20Then,%20write%20the%20code.%22-blue?style=for-the-badge)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=urvashi&icon=0&color=0)](https://visitcount.itsvg.in)
