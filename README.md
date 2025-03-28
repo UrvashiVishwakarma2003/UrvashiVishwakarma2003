@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="IMAGE_URL_HERE" alt="Urvashi Vishwakarma Banner" />
+</p>
+<br>
+
+
 # 💫 About Me:
 👋 Hi, I'm **Urvashi Vishwakarma**!  <br>💻 Aspiring **Full Stack Developer** | Passionate about **Web Development & Programming**  <br>📚 **Diploma in Information Technology** | Enthusiastic about learning new technologies  <br>🚀 Currently interning at **Kryotek Software**  <br>📌 Working on a **Ledger** using PHP, MySQL, HTML, CSS, JavaScript & Bootstrap  <br>🌱 Exploring **Web Development Best Practices & Performance Optimization**  <br>
 
