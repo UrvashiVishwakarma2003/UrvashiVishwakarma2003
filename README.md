@@ -5,8 +5,15 @@
 
 
 # 💫 About Me:
-👋 Hi, I'm **Urvashi Vishwakarma**!  <br>💻 Aspiring **Full Stack Developer** | Passionate about **Web Development & Programming**  <br>📚 **Diploma in Information Technology** | Enthusiastic about learning new technologies  <br>🚀 Currently interning at **Kryotek Software**  <br>🔧 Developing a dynamic To-Do List web application with user authentication, task management, and database integration using PHP (OOP & PDO), MySQL, HTML, CSS, JavaScript, and Bootstrap <br>🌱 Exploring **Web Development Best Practices & Performance Optimization**  <br>
+👋 Hi, I'm Urvashi Vishwakarma<br>
 
+💻 Aspiring Full Stack Developer | Passionate about Web Development & Programming <br>
+📚 Diploma in Information Technology  <br>
+💼 Successfully completed internship at Kryotek Software  <br> 
+✅ Built a complete To-Do List website with user authentication, task management, and responsive UI  
+    (add, update, delete), and mobile-friendly design using PHP, MySQL, and Bootstrap.<br>
+📈 Actively enhancing my frontend & backend development skills by building real-world web projects  <br>
+🌐 Live Portfolio: [Click Here](https://urvashivishwakarma.github.io/portfolio/)  <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/urvashi-vishwakarma-961a56268/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:urvashivishwakarma2003@gmail.com) 
