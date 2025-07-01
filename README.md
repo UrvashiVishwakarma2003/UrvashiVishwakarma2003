@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I'm **Urvashi Vishwakarma**!  <br>💻 Aspiring **Full Stack Developer** | Passionate about **Web Development & Programming**  <br>📚 **Diploma in Information Technology** | Enthusiastic about learning new technologies  <br>🚀 Currently interning at **Kryotek Software**  <br>📌 Working on a **Ledger** using PHP, MySQL, HTML, CSS, JavaScript & Bootstrap  <br>🌱 Exploring **Web Development Best Practices & Performance Optimization**  <br>
+👋 Hi, I'm **Urvashi Vishwakarma**!  <br>💻 Aspiring **Full Stack Developer** | Passionate about **Web Development & Programming**  <br>📚 **Diploma in Information Technology** | Enthusiastic about learning new technologies  <br>🚀 Currently interning at **Kryotek Software**  <br>🔧 Developing a dynamic To-Do List web application with user authentication, task management, and database integration using PHP (OOP & PDO), MySQL, HTML, CSS, JavaScript, and Bootstrap <br>🌱 Exploring **Web Development Best Practices & Performance Optimization**  <br>
 
 
 ## 🌐 Socials:
