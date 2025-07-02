@@ -13,7 +13,8 @@
 ✅ Built a complete To-Do List website with user authentication, task management, and responsive UI  
     (add, update, delete), and mobile-friendly design using PHP, MySQL, and Bootstrap.<br>
 📈 Actively enhancing my frontend & backend development skills by building real-world web projects  <br>
-🌐 Live Portfolio: [Click Here] (https://urvashivishwakarma2003.github.io/Portfolio/)  <br>
+🌐 Live Portfolio: [Click Here](https://urvashivishwakarma2003.github.io/Portfolio/)  <br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urvashi-vishwakarma-961a56268/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:urvashivishwakarma2003@gmail.com) 
